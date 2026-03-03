@@ -20,6 +20,7 @@
         "first": "CCIVRS",
         "title": ""
       },
+      "mobileNumber": "639171234567",
       "totalAccounts": 6,
       "accounts": [
         { "accountTypeDescription": "DEPOSIT", "accountNumber": "68006011872" },
@@ -47,6 +48,7 @@
         "first": "JUANA",
         "title": ""
       },
+      "mobileNumber": "639189998877",
       "totalAccounts": 2,
       "accounts": [
         { "accountTypeDescription": "SAVINGS", "accountNumber": "1000000001" },
@@ -70,6 +72,7 @@
         "first": "PEDRO",
         "title": ""
       },
+      "mobileNumber": "639191112233",
       "totalAccounts": 1,
       "accounts": [
         { "accountTypeDescription": "CREDITCARD", "accountNumber": "2000000001" }
@@ -92,6 +95,7 @@
         "first": "MARIA",
         "title": ""
       },
+      "mobileNumber": "639204445566",
       "totalAccounts": 1,
       "accounts": [
         { "accountTypeDescription": "CHECKING", "accountNumber": "3000000001" }
@@ -114,6 +118,7 @@
         "first": "JOSE",
         "title": ""
       },
+      "mobileNumber": "639217778899",
       "totalAccounts": 1,
       "accounts": [
         { "accountTypeDescription": "DEPOSIT", "accountNumber": "4000000001" }
