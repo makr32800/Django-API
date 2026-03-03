@@ -1,0 +1,133 @@
+{
+  "customers": [
+    {
+      "sCifId": "0017545440",
+      "mdmId": "7355549",
+      "birthDate": "1990-10-11",
+      "highestCustomerSegmentName": "CC-Elite",
+      "highestCustomerSegmentCode": 50,
+      "customerSegments": [
+        { "segmentName": "CC-Elite", "segmentCode": 50 },
+        { "segmentName": "Regular", "segmentCode": 1 }
+      ],
+      "cifs": ["0017545440"],
+      "name": {
+        "genderCode": "M",
+        "prefix": " ",
+        "suffix": " ",
+        "last": "ELITECARD25",
+        "middle": "",
+        "first": "CCIVRS",
+        "title": ""
+      },
+      "totalAccounts": 6,
+      "accounts": [
+        { "accountTypeDescription": "DEPOSIT", "accountNumber": "68006011872" },
+        { "accountTypeDescription": "CREDITCARD", "accountNumber": "36100210923203" },
+        { "accountTypeDescription": "CREDITCARD", "accountNumber": "377672008710866" },
+        { "accountTypeDescription": "CREDITCARD", "accountNumber": "4004383745202091" },
+        { "accountTypeDescription": "CREDITCARD", "accountNumber": "5199630074173216" },
+        { "accountTypeDescription": "CREDITCARD", "accountNumber": "6250351198655186" }
+      ]
+    },
+    {
+      "sCifId": "0022334455",
+      "mdmId": "8899112",
+      "birthDate": "1985-05-20",
+      "highestCustomerSegmentName": "Regular",
+      "highestCustomerSegmentCode": 1,
+      "customerSegments": [{ "segmentName": "Regular", "segmentCode": 1 }],
+      "cifs": ["0022334455"],
+      "name": {
+        "genderCode": "F",
+        "prefix": " ",
+        "suffix": " ",
+        "last": "DELACRUZ",
+        "middle": "",
+        "first": "JUANA",
+        "title": ""
+      },
+      "totalAccounts": 2,
+      "accounts": [
+        { "accountTypeDescription": "SAVINGS", "accountNumber": "1000000001" },
+        { "accountTypeDescription": "DEPOSIT", "accountNumber": "1000000002" }
+      ]
+    },
+    {
+      "sCifId": "0033445566",
+      "mdmId": "7788990",
+      "birthDate": "1992-12-25",
+      "highestCustomerSegmentName": "CC-Elite",
+      "highestCustomerSegmentCode": 50,
+      "customerSegments": [{ "segmentName": "CC-Elite", "segmentCode": 50 }],
+      "cifs": ["0033445566"],
+      "name": {
+        "genderCode": "M",
+        "prefix": " ",
+        "suffix": " ",
+        "last": "PENDUKO",
+        "middle": "",
+        "first": "PEDRO",
+        "title": ""
+      },
+      "totalAccounts": 1,
+      "accounts": [
+        { "accountTypeDescription": "CREDITCARD", "accountNumber": "2000000001" }
+      ]
+    },
+    {
+      "sCifId": "0044556677",
+      "mdmId": "6655443",
+      "birthDate": "1988-03-15",
+      "highestCustomerSegmentName": "Regular",
+      "highestCustomerSegmentCode": 1,
+      "customerSegments": [{ "segmentName": "Regular", "segmentCode": 1 }],
+      "cifs": ["0044556677"],
+      "name": {
+        "genderCode": "F",
+        "prefix": " ",
+        "suffix": " ",
+        "last": "CLARA",
+        "middle": "",
+        "first": "MARIA",
+        "title": ""
+      },
+      "totalAccounts": 1,
+      "accounts": [
+        { "accountTypeDescription": "CHECKING", "accountNumber": "3000000001" }
+      ]
+    },
+    {
+      "sCifId": "0055667788",
+      "mdmId": "5544332",
+      "birthDate": "1995-07-10",
+      "highestCustomerSegmentName": "CC-Elite",
+      "highestCustomerSegmentCode": 50,
+      "customerSegments": [{ "segmentName": "CC-Elite", "segmentCode": 50 }],
+      "cifs": ["0055667788"],
+      "name": {
+        "genderCode": "M",
+        "prefix": " ",
+        "suffix": " ",
+        "last": "SOBERANO",
+        "middle": "",
+        "first": "JOSE",
+        "title": ""
+      },
+      "totalAccounts": 1,
+      "accounts": [
+        { "accountTypeDescription": "DEPOSIT", "accountNumber": "4000000001" }
+      ]
+    }
+  ],
+  "meta": {
+    "totalItems": 5,
+    "itemCount": 5,
+    "itemsPerPage": 25,
+    "totalPages": 1,
+    "currentPage": 1
+  },
+  "links": {
+    "self": "/v1/customer-segment?pageNumber=1&pageSize=25"
+  }
+}
